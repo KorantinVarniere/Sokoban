@@ -17,5 +17,5 @@ int main(void) {
 	liberation_du_niveau(niveau);
 
 	// Code de retour.
-  return 0;
+	return 0;
 }
